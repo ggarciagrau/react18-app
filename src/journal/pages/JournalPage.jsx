@@ -1,5 +1,7 @@
+import { Typography } from "@mui/material";
+
 export default () => {
     return (
-        <div>Journal page</div>
+        <Typography>Journal page</Typography>
     );
 }
